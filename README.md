@@ -71,6 +71,12 @@ The script will:
 
 ---
 
+## 🧑‍💻 Author
+
+Made with ❤️ by Anas and ChatGPT 🙌
+
+---
+
 ## License 📄
 
 MIT License. Free to use, modify, and share.
